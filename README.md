@@ -3,7 +3,7 @@
 **`Desenvolvedor Unity`**
 
 Olá, meu nome é Jefferson, tenho 18 anos e sou um programador de jogos autodidata.
-Atualmente, estou focado no desenvolvimento de jogos utilizando a Unity, com mais de seis meses de experiência em criação de jogos 2D. Ao longo dessa jornada, aprimorei minhas habilidades em programação com C#, trabalhando com animações, física, mecânicas de gameplay, além de aprimorar minha capacidade de raciocínio lógico e de resolução de problemas. Tenho experiência em criar jogos como o Flappy Bird, que pode ser encontrado na minha conta no Itch.io.
+Atualmente, estou focado no desenvolvimento de jogos utilizando a Unity, com mais de seis meses de experiência em criação de jogos 2D. Ao longo dessa jornada, aprimorei minhas habilidades em programação com C#, trabalhando com animações, física, mecânicas de gameplay, além de aprimorar minha capacidade de raciocínio lógico e de resolução de problemas. Tenho experiência em criar jogos como uma cópia do Flappy Bird, que pode ser encontrado na minha conta no Itch.io.
 
 Sou uma pessoa movida pela curiosidade e pela busca constante de aprimoramento. Como desenvolvedor, estou sempre em busca de novos desafios para expandir meus conhecimentos e testar novas ideias. Também tenho interesse em aprender sobre diversas áreas do desenvolvimento de jogos, desde design até otimização e IA, pois acredito que isso me torna um profissional mais completo.
 
